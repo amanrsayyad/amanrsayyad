@@ -52,8 +52,7 @@ Git, GitHub • VS Code • Postman • NPM
 
 ### 📫 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/amanrsayyad  
-- Email: yourname@email.com  
-- Portfolio: *(link here if you have one)*
+- Email: amansayyad.developer@gmail.com
 
 ---
 
