@@ -1,5 +1,5 @@
 # Hi there, I’m Aman 👋  
-## Full Stack Developer | React • Node.js • MongoDB
+## Software Developer | React • Node.js • MongoDB
 
 I build scalable and responsive web applications using modern JavaScript technologies. My work spans frontend, backend, APIs, and real-world user experiences — all documented here on GitHub.
 
